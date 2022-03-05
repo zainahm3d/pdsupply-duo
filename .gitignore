@@ -70,3 +70,6 @@ xcuserdata/
 
 # Built Visual Studio Code Extensions
 *.vsix
+
+# CubeMX
+software/stm/pdsupply-duo/build/
