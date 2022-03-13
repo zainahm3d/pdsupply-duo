@@ -3,4 +3,7 @@
   (lib (name "LTM8074IY_PBF")(type "Legacy")(uri "${KIPRJMOD}/components/LTM8074IY_PBF-buck/LTM8074IY_PBF.lib")(options "")(descr ""))
   (lib (name "RCU-0C")(type "Legacy")(uri "${KIPRJMOD}/components/RCU-0C-testpoint/RCU-0C.lib")(options "")(descr ""))
   (lib (name "USB4505-03-0-A_REVA")(type "Legacy")(uri "${KIPRJMOD}/components/USB4505-03-0-A_REVA-usbport/USB4505-03-0-A_REVA.lib")(options "")(descr ""))
+  (lib (name "STM32G431CBU3")(type "Legacy")(uri "${KIPRJMOD}/components/STM32G431/STM32G431CBU3.lib")(options "")(descr ""))
+  (lib (name "LTM8026IV_PBF")(type "Legacy")(uri "${KIPRJMOD}/components/LTM8026IV_PBF/LTM8026IV_PBF.lib")(options "")(descr ""))
+  (lib (name "ACS71240KEXBLT-050U5")(type "Legacy")(uri "${KIPRJMOD}/components/ACS71240KEXBLT-050U5/ACS71240KEXBLT-050U5.lib")(options "")(descr ""))
 )

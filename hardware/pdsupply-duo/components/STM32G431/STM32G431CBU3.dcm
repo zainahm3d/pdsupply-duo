@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP STM32G431CBU3
+D MCU 32-bit ARM Cortex M4 RISC 128KB Flash 3.3V 48-Pin UFQFPN EP Tray
+K
+F https://www.st.com/resource/en/datasheet/stm32g431c6.pdf
+$ENDCMP
+#
+#End Doc Library

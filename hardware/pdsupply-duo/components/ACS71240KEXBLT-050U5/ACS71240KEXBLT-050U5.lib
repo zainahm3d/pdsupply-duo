@@ -1,0 +1,32 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# ACS71240KEXBLT-050U5
+#
+DEF ACS71240KEXBLT-050U5 U 0 40 Y Y 1 L N
+F0 "U" -400 420 50 H V L BNN
+F1 "ACS71240KEXBLT-050U5" -400 -500 50 H V L BNN
+F2 "XDCR_ACS71240KEXBLT-050U5" 0 0 50 H I L BNN
+F3 "" 0 0 50 H I L BNN
+F4 "0.8 MM" 0 0 50 H I L BNN "MAXIMUM_PACKAGE_HIEGHT"
+F5 "Allegro MicroSystems" 0 0 50 H I L BNN "MANUFACTURER"
+F6 "3" 0 0 50 H I L BNN "PARTREV"
+F7 "Manufacturer recommendations" 0 0 50 H I L BNN "STANDARD"
+DRAW
+S -400 -400 400 400 0 0 10 f
+X VCC 12 600 300 200 L 40 40 0 0 W 
+X IP+ 1 -600 300 200 R 40 40 0 0 I 
+X IP- 3 -600 100 200 R 40 40 0 0 I 
+X ~FAULT 6 600 -100 200 L 40 40 0 0 P 
+X GND 5 600 -300 200 L 40 40 0 0 W 
+X VIOUT 11 600 100 200 L 40 40 0 0 O 
+X NC 7 -600 -100 200 R 40 40 0 0 P 
+X NC 8 -600 -100 200 R 40 40 0 0 P 
+X NC 9 -600 -100 200 R 40 40 0 0 P 
+X NC 10 -600 -100 200 R 40 40 0 0 P 
+ENDDRAW
+ENDDEF
+#
+# End Library
